@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 7521f6ee085092b4fa300b779f53a790
+timeCreated: 1543104691
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ball_l
+    100002: ball_l_end
+    100004: ball_r
+    100006: ball_r_end
+    100008: calf_l
+    100010: calf_r
+    100012: clavicle_l
+    100014: clavicle_r
+    100016: //RootNode
+    100018: foot_l
+    100020: foot_r
+    100022: Game_engine.001
+    100024: hand_l
+    100026: hand_r
+    100028: head
+    100030: head_end
+    100032: index_01_l
+    100034: index_01_r
+    100036: index_02_l
+    100038: index_02_r
+    100040: index_03_l
+    100042: index_03_l_end
+    100044: index_03_r
+    100046: index_03_r_end
+    100048: low-polyMesh.001
+    100050: lowerarm_l
+    100052: lowerarm_r
+    100054: male1591Mesh.001
+    100056: male_casualsuit01Mesh
+    100058: middle_01_l
+    100060: middle_01_r
+    100062: middle_02_l
+    100064: middle_02_r
+    100066: middle_03_l
+    100068: middle_03_l_end
+    100070: middle_03_r
+    100072: middle_03_r_end
+    100074: neck_01
+    100076: pelvis
+    100078: pinky_01_l
+    100080: pinky_01_r
+    100082: pinky_02_l
+    100084: pinky_02_r
+    100086: pinky_03_l
+    100088: pinky_03_l_end
+    100090: pinky_03_r
+    100092: pinky_03_r_end
+    100094: Razor_Scooter
+    100096: ring_01_l
+    100098: ring_01_r
+    100100: ring_02_l
+    100102: ring_02_r
+    100104: ring_03_l
+    100106: ring_03_l_end
+    100108: ring_03_r
+    100110: ring_03_r_end
+    100112: Root
+    100114: shoes03Mesh.001
+    100116: short01Mesh
+    100118: spine_01
+    100120: spine_02
+    100122: spine_03
+    100124: thigh_l
+    100126: thigh_r
+    100128: thumb_01_l
+    100130: thumb_01_r
+    100132: thumb_02_l
+    100134: thumb_02_r
+    100136: thumb_03_l
+    100138: thumb_03_l_end
+    100140: thumb_03_r
+    100142: thumb_03_r_end
+    100144: upperarm_l
+    100146: upperarm_r
+    400000: ball_l
+    400002: ball_l_end
+    400004: ball_r
+    400006: ball_r_end
+    400008: calf_l
+    400010: calf_r
+    400012: clavicle_l
+    400014: clavicle_r
+    400016: //RootNode
+    400018: foot_l
+    400020: foot_r
+    400022: Game_engine.001
+    400024: hand_l
+    400026: hand_r
+    400028: head
+    400030: head_end
+    400032: index_01_l
+    400034: index_01_r
+    400036: index_02_l
+    400038: index_02_r
+    400040: index_03_l
+    400042: index_03_l_end
+    400044: index_03_r
+    400046: index_03_r_end
+    400048: low-polyMesh.001
+    400050: lowerarm_l
+    400052: lowerarm_r
+    400054: male1591Mesh.001
+    400056: male_casualsuit01Mesh
+    400058: middle_01_l
+    400060: middle_01_r
+    400062: middle_02_l
+    400064: middle_02_r
+    400066: middle_03_l
+    400068: middle_03_l_end
+    400070: middle_03_r
+    400072: middle_03_r_end
+    400074: neck_01
+    400076: pelvis
+    400078: pinky_01_l
+    400080: pinky_01_r
+    400082: pinky_02_l
+    400084: pinky_02_r
+    400086: pinky_03_l
+    400088: pinky_03_l_end
+    400090: pinky_03_r
+    400092: pinky_03_r_end
+    400094: Razor_Scooter
+    400096: ring_01_l
+    400098: ring_01_r
+    400100: ring_02_l
+    400102: ring_02_r
+    400104: ring_03_l
+    400106: ring_03_l_end
+    400108: ring_03_r
+    400110: ring_03_r_end
+    400112: Root
+    400114: shoes03Mesh.001
+    400116: short01Mesh
+    400118: spine_01
+    400120: spine_02
+    400122: spine_03
+    400124: thigh_l
+    400126: thigh_r
+    400128: thumb_01_l
+    400130: thumb_01_r
+    400132: thumb_02_l
+    400134: thumb_02_r
+    400136: thumb_03_l
+    400138: thumb_03_l_end
+    400140: thumb_03_r
+    400142: thumb_03_r_end
+    400144: upperarm_l
+    400146: upperarm_r
+    2300000: Razor_Scooter
+    3300000: Razor_Scooter
+    4300000: shoes03Mesh.001
+    4300002: male_casualsuit01Mesh
+    4300004: short01Mesh
+    4300006: male1591Mesh.001
+    4300008: low-polyMesh.001
+    4300010: Razor_Scooter
+    9500000: //RootNode
+    13700000: low-polyMesh.001
+    13700002: male1591Mesh.001
+    13700004: male_casualsuit01Mesh
+    13700006: shoes03Mesh.001
+    13700008: short01Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: 8c44c059c109532458bb6cdf27c11734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 5d12073dcdecea940b5dbeb62f3ff70c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Black.001
+    second: {fileID: 2100000, guid: e8ab9752eb709464d9ece8562e05c821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Grey.001
+    second: {fileID: 2100000, guid: 7b0682c76c1384d4ab24bff83c65ade4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: low-poly.001
+    second: {fileID: 2100000, guid: a2f2c377f2b810a4eae766c4dd523d9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: male1591.001
+    second: {fileID: 2100000, guid: 13c19d1c7aa0e504799a084879a76b0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: male_casualsuit01
+    second: {fileID: 2100000, guid: 7372a8172fd13194e8a9bea788414e75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes03.001
+    second: {fileID: 2100000, guid: 7106a6828408abe429233591640276f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: short01
+    second: {fileID: 2100000, guid: daf3fd904f301fd4c9a71c01b862fc63, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

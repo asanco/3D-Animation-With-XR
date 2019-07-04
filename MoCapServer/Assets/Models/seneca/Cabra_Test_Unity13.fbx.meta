@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 2c509814d1557dc40ab9115ac8364f33
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone
+    100004: Bone_end
+    100006: //RootNode
+    100008: Cuboparticulas
+    100010: Cuboparticulas2
+    100012: master
+    100014: mixamorig:Head
+    100016: mixamorig:HeadTop_End
+    100018: mixamorig:HeadTop_End_end
+    100020: mixamorig:Hips
+    100022: mixamorig:LeftArm
+    100024: mixamorig:LeftFoot
+    100026: mixamorig:LeftForeArm
+    100028: mixamorig:LeftHand
+    100030: mixamorig:LeftHandIndex1
+    100032: mixamorig:LeftHandIndex2
+    100034: mixamorig:LeftHandIndex3
+    100036: mixamorig:LeftHandIndex4
+    100038: mixamorig:LeftHandIndex4_end
+    100040: mixamorig:LeftLeg
+    100042: mixamorig:LeftShoulder
+    100044: mixamorig:LeftToe_End
+    100046: mixamorig:LeftToe_End_end
+    100048: mixamorig:LeftToeBase
+    100050: mixamorig:LeftUpLeg
+    100052: mixamorig:Neck
+    100054: mixamorig:RightArm
+    100056: mixamorig:RightFoot
+    100058: mixamorig:RightForeArm
+    100060: mixamorig:RightHand
+    100062: mixamorig:RightHandIndex1
+    100064: mixamorig:RightHandIndex2
+    100066: mixamorig:RightHandIndex3
+    100068: mixamorig:RightHandIndex4
+    100070: mixamorig:RightHandIndex4_end
+    100072: mixamorig:RightLeg
+    100074: mixamorig:RightShoulder
+    100076: mixamorig:RightToe_End
+    100078: mixamorig:RightToe_End_end
+    100080: mixamorig:RightToeBase
+    100082: mixamorig:RightUpLeg
+    100084: mixamorig:Spine
+    100086: mixamorig:Spine1
+    100088: mixamorig:Spine2
+    100090: Part1_low.001
+    100092: Part1_low.001_MeshPart0
+    100094: Part1_low.001_MeshPart1
+    100096: Part1_low.001_MeshPart2
+    100098: Part1_low.001_MeshPart3
+    100100: Part1_low.001_MeshPart4
+    100102: Part1_low.001_MeshPart5
+    100104: Part1_low.001_MeshPart6
+    100106: Part1_low.001_MeshPart7
+    100108: Part2_low.005
+    100110: Part2_low.007
+    100112: Part3_low.003
+    100114: Part3_low.005
+    100116: Quijada
+    100118: Quijada_end
+    400000: Armature
+    400002: Bone
+    400004: Bone_end
+    400006: //RootNode
+    400008: Cuboparticulas
+    400010: Cuboparticulas2
+    400012: master
+    400014: mixamorig:Head
+    400016: mixamorig:HeadTop_End
+    400018: mixamorig:HeadTop_End_end
+    400020: mixamorig:Hips
+    400022: mixamorig:LeftArm
+    400024: mixamorig:LeftFoot
+    400026: mixamorig:LeftForeArm
+    400028: mixamorig:LeftHand
+    400030: mixamorig:LeftHandIndex1
+    400032: mixamorig:LeftHandIndex2
+    400034: mixamorig:LeftHandIndex3
+    400036: mixamorig:LeftHandIndex4
+    400038: mixamorig:LeftHandIndex4_end
+    400040: mixamorig:LeftLeg
+    400042: mixamorig:LeftShoulder
+    400044: mixamorig:LeftToe_End
+    400046: mixamorig:LeftToe_End_end
+    400048: mixamorig:LeftToeBase
+    400050: mixamorig:LeftUpLeg
+    400052: mixamorig:Neck
+    400054: mixamorig:RightArm
+    400056: mixamorig:RightFoot
+    400058: mixamorig:RightForeArm
+    400060: mixamorig:RightHand
+    400062: mixamorig:RightHandIndex1
+    400064: mixamorig:RightHandIndex2
+    400066: mixamorig:RightHandIndex3
+    400068: mixamorig:RightHandIndex4
+    400070: mixamorig:RightHandIndex4_end
+    400072: mixamorig:RightLeg
+    400074: mixamorig:RightShoulder
+    400076: mixamorig:RightToe_End
+    400078: mixamorig:RightToe_End_end
+    400080: mixamorig:RightToeBase
+    400082: mixamorig:RightUpLeg
+    400084: mixamorig:Spine
+    400086: mixamorig:Spine1
+    400088: mixamorig:Spine2
+    400090: Part1_low.001
+    400092: Part1_low.001_MeshPart0
+    400094: Part1_low.001_MeshPart1
+    400096: Part1_low.001_MeshPart2
+    400098: Part1_low.001_MeshPart3
+    400100: Part1_low.001_MeshPart4
+    400102: Part1_low.001_MeshPart5
+    400104: Part1_low.001_MeshPart6
+    400106: Part1_low.001_MeshPart7
+    400108: Part2_low.005
+    400110: Part2_low.007
+    400112: Part3_low.003
+    400114: Part3_low.005
+    400116: Quijada
+    400118: Quijada_end
+    2300000: Cuboparticulas
+    2300002: Cuboparticulas2
+    2300004: Part2_low.005
+    2300006: Part2_low.007
+    2300008: Part3_low.003
+    2300010: Part3_low.005
+    3300000: Cuboparticulas
+    3300002: Cuboparticulas2
+    3300004: Part2_low.005
+    3300006: Part2_low.007
+    3300008: Part3_low.003
+    3300010: Part3_low.005
+    4300000: Part2_low.005
+    4300002: Part3_low.005
+    4300004: Part2_low.007
+    4300006: Part3_low.003
+    4300008: Cuboparticulas
+    4300010: Cuboparticulas2
+    4300012: Part1_low.001_MeshPart0
+    4300014: Part1_low.001_MeshPart1
+    4300016: Part1_low.001_MeshPart2
+    4300018: Part1_low.001_MeshPart3
+    4300020: Part1_low.001_MeshPart4
+    4300022: Part1_low.001_MeshPart5
+    4300024: Part1_low.001_MeshPart6
+    4300026: Part1_low.001_MeshPart7
+    4300028: Part1_low.001
+    7400000: Armature|Boca
+    7400002: Armature|Girando
+    7400004: Armature|Idle
+    7400006: Armature|MinorityReport2
+    7400008: Armature|Para Izquierda
+    7400010: Armature|Pata derecha
+    7400012: Armature|Plano
+    7400014: Armature|Saludando
+    7400016: Part3_low.003|Plano
+    9500000: //RootNode
+    13700000: Part1_low.001_MeshPart0
+    13700002: Part1_low.001_MeshPart1
+    13700004: Part1_low.001_MeshPart2
+    13700006: Part1_low.001_MeshPart3
+    13700008: Part1_low.001_MeshPart4
+    13700010: Part1_low.001_MeshPart5
+    13700012: Part1_low.001_MeshPart6
+    13700014: Part1_low.001_MeshPart7
+    13700016: Part1_low.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 3ceb1578be1ba9a4f89f678ca0edfe7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PJ_material
+    second: {fileID: 2100000, guid: ae802f4137ff2634bba85a7e49a3e72d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Particulas1
+    second: {fileID: 2100000, guid: 51211f66747e2f444b190a586ba51a70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Particulas2
+    second: {fileID: 2100000, guid: 51cc57c0621605b40bd27c77d1bd9cb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ropa_material
+    second: {fileID: 2100000, guid: 81f1ab3a74b19cf4a9f9056bdbf73eb3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

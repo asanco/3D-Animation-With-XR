@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: b6f4f66e8b737d14299a00781c3c8825
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.002
+    100006: Cube.003
+    100008: Cylinder
+    100010: //RootNode
+    100012: Mostrador2
+    100014: Mostrador2.009
+    100016: Mostrador2.010
+    100018: Mostrador2.011
+    100020: Plane
+    100022: Plane.001
+    100024: Plataforma
+    100026: Razor_Scooter
+    100028: Razor_Scooter.001
+    100030: Razor_Scooter.002
+    100032: Razor_Scooter.003
+    100034: Razor_Scooter.004
+    100036: Sofa
+    100038: Techo
+    100040: Tomorrowland-VFX-Breakdown1
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.002
+    400006: Cube.003
+    400008: Cylinder
+    400010: //RootNode
+    400012: Mostrador2
+    400014: Mostrador2.009
+    400016: Mostrador2.010
+    400018: Mostrador2.011
+    400020: Plane
+    400022: Plane.001
+    400024: Plataforma
+    400026: Razor_Scooter
+    400028: Razor_Scooter.001
+    400030: Razor_Scooter.002
+    400032: Razor_Scooter.003
+    400034: Razor_Scooter.004
+    400036: Sofa
+    400038: Techo
+    400040: Tomorrowland-VFX-Breakdown1
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.002
+    2300006: Cube.003
+    2300008: Cylinder
+    2300010: Mostrador2
+    2300012: Mostrador2.009
+    2300014: Mostrador2.010
+    2300016: Mostrador2.011
+    2300018: Plane
+    2300020: Plane.001
+    2300022: Plataforma
+    2300024: Razor_Scooter
+    2300026: Razor_Scooter.001
+    2300028: Razor_Scooter.002
+    2300030: Razor_Scooter.003
+    2300032: Razor_Scooter.004
+    2300034: Sofa
+    2300036: Techo
+    2300038: Tomorrowland-VFX-Breakdown1
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.002
+    3300006: Cube.003
+    3300008: Cylinder
+    3300010: Mostrador2
+    3300012: Mostrador2.009
+    3300014: Mostrador2.010
+    3300016: Mostrador2.011
+    3300018: Plane
+    3300020: Plane.001
+    3300022: Plataforma
+    3300024: Razor_Scooter
+    3300026: Razor_Scooter.001
+    3300028: Razor_Scooter.002
+    3300030: Razor_Scooter.003
+    3300032: Razor_Scooter.004
+    3300034: Sofa
+    3300036: Techo
+    3300038: Tomorrowland-VFX-Breakdown1
+    4300000: Razor_Scooter.004
+    4300002: Razor_Scooter.003
+    4300004: Razor_Scooter.002
+    4300006: Plane.001
+    4300008: Plataforma
+    4300010: Cube.003
+    4300012: Cube.002
+    4300014: Cube.001
+    4300016: Mostrador2.011
+    4300018: Tomorrowland-VFX-Breakdown1
+    4300020: Plane
+    4300022: Cylinder
+    4300024: Mostrador2.010
+    4300026: Mostrador2.009
+    4300028: Techo
+    4300030: Mostrador2
+    4300032: Sofa
+    4300034: Cube
+    4300036: Razor_Scooter
+    4300038: Razor_Scooter.001
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue
+    second: {fileID: 2100000, guid: 8c44c059c109532458bb6cdf27c11734, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: 5d12073dcdecea940b5dbeb62f3ff70c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holograma
+    second: {fileID: 2100000, guid: 36cead4bf44862346846ada4cf889e3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.002
+    second: {fileID: 2100000, guid: 54d24c69680933b46a3698687c32238f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: f8466fbcda33db8428b49bcba21089c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MetalMat
+    second: {fileID: 2100000, guid: d8f0762227efe044bbdd1124230069dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NegroMat
+    second: {fileID: 2100000, guid: fad7dbc5e5185674b9631a688e1723ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NegroMate
+    second: {fileID: 2100000, guid: 7ffb77925f3d2414b863f8c5c6f093ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 67ce7a9e7e1c6c34b8f44ff9830ba454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OrnamentoTecho
+    second: {fileID: 2100000, guid: f2065b180755f4b4f89994a5d128a81c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pantallas
+    second: {fileID: 2100000, guid: eedd66ac5220cd649b30149bb330937e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Paredes
+    second: {fileID: 2100000, guid: 64ab14ece062a914fb479025361e464b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Black.001
+    second: {fileID: 2100000, guid: e8ab9752eb709464d9ece8562e05c821, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Grey.001
+    second: {fileID: 2100000, guid: 7b0682c76c1384d4ab24bff83c65ade4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RodapieMat
+    second: {fileID: 2100000, guid: c81203fb3c91b4c46941528d4e36a6db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Techo
+    second: {fileID: 2100000, guid: 1409f051f3c07894cb1b1f8c08f5e46b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tomorrowland-VFX-Breakdown1
+    second: {fileID: 2100000, guid: c6747d22692084841ab6b10d73403874, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VidrioLetreroMat
+    second: {fileID: 2100000, guid: 15191974abe8b8c4581a9bf39d547d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VidrioMat
+    second: {fileID: 2100000, guid: 64502bf0308abf141b6998a468e8d3b0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
