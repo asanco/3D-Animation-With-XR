@@ -13,7 +13,8 @@ https://drive.google.com/file/d/1UiR-KPB2uvY5SJZlyFE6mueVwzTvDdN8/view?usp=shari
 
 To animate the body you must previously run the Perception Neuron application (https://neuronmocap.com/downloads), connect and calibrate the suit. It must be kept open while wearing the suit.
 
-- Desktop application:
+
+- Desktop application (MoCapServer):
 
 
 • Note IP of the machine.
@@ -26,7 +27,8 @@ scene of the virtual department and with the Seneca model.
 • The camera can be operated with WASDQE to change the distance and angle.
 
 
-- Mobile Application (Android 8+):
+
+- Mobile Application (Android 8+) (MoCapClient):
 
 • In the folder Builds> Android you will find the executable for the application with the
 facial recognition
