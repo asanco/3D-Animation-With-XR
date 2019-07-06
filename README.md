@@ -1,6 +1,6 @@
 # 3D-Animation-With-XR
 
-### Project Video
+### Project video
 
 https://youtu.be/foF39S0gu_g
 
