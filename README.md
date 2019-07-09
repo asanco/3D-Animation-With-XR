@@ -48,6 +48,10 @@ In case you want to make an application or development of a commercial nature, y
 ### Author
 
 Andrés Sandoval
+
 Systems and Computing Engineering student
+
 Universidad de los Andes
+
 a.sandoval1303@uniandes.edu.co
+
